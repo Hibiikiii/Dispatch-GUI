@@ -15,5 +15,6 @@ If you have questions about Dispatch join the [Discord Developers](https://disco
 If you have questions about DispatchGUI join the [DispatchGUI Discord](https://discord.gg/invite/Qqqjtsy) Server.
 
 # Thanks
-- Thanks to [JumpSuit](https://twitter.com/JSA_Dev) for these creative Loading Facts
 - Thanks to [Variiuz](https://twitter.com/Variiuz) helping me in though situations, the Console App and the API endpoint.
+- Thanks to [Mason](https://github.com/msciotti) for approving the use of the Discord thingys, and also for answering my questions.
+- Thanks to [JumpSuit](https://twitter.com/JSA_Dev) for these creative Loading Facts

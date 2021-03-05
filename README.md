@@ -2,7 +2,8 @@
 A comfy GUI for Dispatch made in Unreal Engine 4
 
 # Important
-This GUI is currently only available for Windows.
+This GUI will be first released for Windows (x64 as well as x86).
+Other Versions like Linux are following and MacOS will be interesting, need a way to compile it!
 
 # What is this Repository for?
 

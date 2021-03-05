@@ -1,3 +1,5 @@
+![Screenshot](images/screenshot.png)
+
 # DispatchGUI
 A comfy GUI for Dispatch made in Unreal Engine 4
 

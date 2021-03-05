@@ -3,7 +3,7 @@ name: Bug report
 about: Report a Bug regarding the GUI
 title: ''
 labels: bug
-assignees: Hibiikiii;Variiuz
+assignees: Hibiikiii, Variiuz
 
 ---
 

@@ -3,13 +3,14 @@ A comfy GUI for Dispatch made in Unreal Engine 4
 
 # Important
 This GUI will be first released for Windows (x64 as well as x86).
+
 Other Versions like Linux are following and MacOS will be interesting, need a way to compile it!
 
 # What is this Repository for?
 
 This repo is used for Issues tracking & also for suggestions
 
-[Report a bug or Make a suggestion](https://github.com/Hibiikiii/Dispatch-GUI/issues/new/choose)
+[Report a bug or make a suggestion](https://github.com/Hibiikiii/Dispatch-GUI/issues/new/choose)
 
 # Questions
 If you have questions about Dispatch join the [Discord Developers](https://discord.gg/discord-developers) Server.

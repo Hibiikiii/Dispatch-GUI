@@ -22,4 +22,4 @@ If you have questions about DispatchGUI join the [DispatchGUI Discord](https://d
 # Thanks
 - Thanks to [Variiuz](https://twitter.com/Variiuz) helping me in though situations, the Console App and the API endpoint.
 - Thanks to [Mason](https://github.com/msciotti) for approving the use of the Discord thingys, and also for answering my questions.
-- Thanks to [JumpSuit](https://twitter.com/JSA_Dev) for these creative Loading Facts
+- Thanks to [JumpSuit](https://twitter.com/JSA_Dev) for these creative Loading Facts and all the first suggestions of course!

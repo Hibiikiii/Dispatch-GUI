@@ -1,4 +1,4 @@
-![Screenshot](images/screenshot.png)
+![Screenshot](tree/master/images/Cover.png)
 
 # DispatchGUI
 A comfy GUI for Dispatch made in Unreal Engine 4

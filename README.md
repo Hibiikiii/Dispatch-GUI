@@ -1,3 +1,23 @@
+# IMPORTANT NOTICE
+As Discord is deprecating distribution of games + the store in general, there will be no need for this Software anymore. 
+This repository will be archived. It's sad to not finish a product we enjoyed making, but that's how it goes sometimes.
+
+On other notes:
+We are planning to release a Launcher + Store ourselves. If you're an Indie or AAA Developer, feel free to visit our Discord:
+
+[![FrostLauncher Partners & Co.](https://img.shields.io/discord/824236785373806672?label=FrostLauncher&logo=discord&style=for-the-badge)](https://discord.gg/S6R5NDnZMA)
+
+
+Happy Publishing & may your future projects be perfect!
+
+
+
+------------------
+
+
+
+
+
 ![Screenshot](images/Cover.png)
 
 # DispatchGUI
